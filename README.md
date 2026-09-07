@@ -5,26 +5,30 @@
 <br/>
 <br/>
 
+<!-- Contact Badges in a Row -->
 <a href="mailto:chavantejas940@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-00D9FF?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-&nbsp;
-
 <a href="YOUR_LINKEDIN_URL" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-&nbsp;
-
 <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<br/>
+<br/>
+
+<!-- Availability Badge -->
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20WORK-00D9FF?style=for-the-badge&logo=statuspal&logoColor=white" />
+<img src="https://img.shields.io/badge/LOCATION-Pune%2C%20India-00D9FF?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 </div>
 
 ---
-
 ## 🎯 Professional Summary
 
 **Computer Engineering Graduate** | **CGPA: 7.75/10** | **Honors in Cyber Security**  
