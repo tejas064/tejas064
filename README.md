@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Tejas+Chavan;Cybersecurity+%7C+SOC+%7C+Information+Security;Computer+Engineering+Graduate+%F0%9F%8E%93;Python+%7C+SQL+%7C+Linux+%7C+Cybersecurity;Data+Analytics+%7C+AI%2FML" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Tejas+Chavan;Computer+Engineering+Graduate+%F0%9F%8E%93;Customer+Support+%7C+Data+Analytics+%7C+Cybersecurity;Python+%7C+SQL+%7C+Power+BI+%7C+Linux;Available+for+Immediate+Joining+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -30,150 +30,208 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Engineering graduate** from **Savitribai Phule Pune University**, with a **CGPA of 7.75/10** and **Honors in Cyber Security**.
+I'm a **Computer Engineering graduate** from **Savitribai Phule Pune University** with a **CGPA of 7.75/10** and **Honors in Cyber Security**.
 
-I'm passionate about **Cybersecurity, SOC Operations, Information Security, Network Security, Data Analytics, and AI/ML**.
+I bring a unique combination of **customer support experience**, **data analytics skills**, and **cybersecurity knowledge** — making me a versatile professional ready for BPO, ITES, Data Operations, and Security roles.
 
-- 🔐 Interested in **SOC Analysis, Information Security & Threat Detection**
-- 🛡️ Hands-on with **Linux/Kali Linux, Nmap, Wireshark, Metasploit & Burp Suite**
-- 💻 Programming with **Python & SQL**
-- 🌐 Strong foundation in **TCP/IP, DNS, HTTP/HTTPS, Routing & Switching**
-- 📊 Experience with **Power BI, Looker Studio, Excel & Data Analytics**
-- 🤖 Interested in **AI/ML and AI Security**
-- 🔎 Interested in **Vulnerability Assessment, Incident Response & Threat Intelligence**
-- 🧠 Currently strengthening my **Cybersecurity & Networking skills**
-- 📍 Pune, Maharashtra, India
+- 📞 **Customer Support:** Application assistance, documentation support, query handling, issue resolution, and stakeholder coordination
+- 📊 **Data Analytics:** Data validation, quality checks, reconciliation, Power BI dashboards, SQL, Python
+- 🔐 **Cybersecurity:** SOC fundamentals, threat detection, log analysis, network security, vulnerability assessment
+- 💻 **Programming:** Python, SQL, Bash
+- 🛠️ **Tools:** Power BI, Excel, Git, Linux, Wireshark, Nmap, Kali Linux
+- 📍 **Location:** Pune, Maharashtra, India
+- ⏰ **Availability:** Immediate Joiner | Open to WFO/Hybrid/Remote
 
 ---
 
 ## 🛠️ Tech Stack
+
+### 📞 Customer Support & Operations
+
+![Customer Support](https://img.shields.io/badge/Customer%20Support-111827?style=for-the-badge&logo=hubspot&logoColor=00D9FF)
+![Documentation](https://img.shields.io/badge/Documentation-1F2937?style=for-the-badge&logo=notion&logoColor=00D9FF)
+![Query Handling](https://img.shields.io/badge/Query%20Handling-1F2937?style=for-the-badge&logo=zendesk&logoColor=00D9FF)
+![Escalation](https://img.shields.io/badge/Escalation%20Handling-1F2937?style=for-the-badge&logo=servicenow&logoColor=00D9FF)
+
+### 📊 Data Analytics & Engineering
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### 🔐 Cybersecurity
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=00D9FF)
 ![SOC](https://img.shields.io/badge/SOC%20Analysis-1F2937?style=for-the-badge&logo=security&logoColor=00D9FF)
 ![Network Security](https://img.shields.io/badge/Network%20Security-1F2937?style=for-the-badge&logo=cisco&logoColor=00D9FF)
-![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-1F2937?style=for-the-badge&logo=owasp&logoColor=00D9FF)
-![Incident Response](https://img.shields.io/badge/Incident%20Response-1F2937?style=for-the-badge&logo=virustotal&logoColor=00D9FF)
-
-### 🐧 Security Tools & Networking
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
 
-### 💻 Programming & Databases
+### 💻 Development Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📊 Data Analytics & Visualization
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-### ☁️ Cloud & Development Tools
-
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 💼 Experience Highlights
+
+### Application & Documentation Support
+**Bandkam Kamgar Yojana, Pune** | Jan 2025 – Present
+- Support online application workflows, data entry, and documentation following defined procedures
+- Perform data validation and document verification to identify missing or inconsistent information
+- Track applications end-to-end, resolve first-level issues, and escalate complex cases
+- Maintain accurate records and coordinate with stakeholders
+
+### Data Visualization Associate (Intern)
+**Excelerate** | Sep 2025 – Oct 2025
+- Prepared analysis-ready datasets through validation, formatting, and quality checks
+- Performed reconciliation across multiple sources to ensure data integrity
+- Built interactive Power BI dashboards with KPIs and drill-down visualizations
+
+### Cyber Crime Volunteer
+**National Cyber Crime Reporting (I4C)** | 2026 – Present
+- Analyzed cybercrime incidents including phishing, financial fraud, and social engineering
+- Reviewed incident information, identified threat indicators, and ensured data accuracy
+- Supported awareness activities on cyber hygiene and fraud prevention
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 Identity and Access Management (IAM) Security Framework
+### 💰 PFIS – Personal Finance Intelligent System
+**ETL Pipeline & Analytics Dashboard**
+- Built ETL pipeline to process transactions from CSV, Excel, and PDF sources
+- Performed data validation, cleansing, and transformation
+- Developed transaction classification and anomaly-detection logic
+- Created interactive Streamlit dashboard for filtering and reporting
 
-- Designed an IAM security framework covering authentication, authorization, RBAC, access control, and identity governance.
-- Simulated user lifecycle management including onboarding, role changes, access reviews, and deprovisioning.
-- Analyzed authentication logs to identify unauthorized access and privilege escalation attempts.
-
-**Tech:** Python · IAM Principles · RBAC · Log Analysis
-
----
-
-### 🌐 Network Security and Vulnerability Assessment Lab
-
-- Performed network reconnaissance and vulnerability assessment using Nmap, Wireshark, and Kali Linux.
-- Analyzed network packets and traffic patterns to identify suspicious communication and potential security issues.
-- Practiced vulnerability identification, enumeration, exploitation, and remediation in authorized lab environments.
-
-**Tech:** Nmap · Wireshark · Kali Linux · Metasploit
+**Tech:** Python · Pandas · Streamlit · ETL · Data Validation
 
 ---
 
-### 💰 Personal Finance Intelligent System — PFIS *(If applicable to your projects)*
+### 📊 Heart Disease Analysis Dashboard
+**Power BI & Excel**
+- Performed data preprocessing: missing values, duplicates, outliers, standardization
+- Conducted exploratory data analysis to identify key patterns
+- Built interactive Power BI dashboard with KPIs, heatmaps, and drill-down filters
 
-- Analyzed financial transactions using Machine Learning and statistical techniques.
-- Applied FinBERT for financial text/sentiment analysis.
-- Used SHAP & LIME for model explainability.
-
-**Tech:** Python · Machine Learning · FinBERT · LSTM · Prophet · SHAP · LIME · Flask
-
----
-
-### 📊 Call Center Analytics Dashboard *(If applicable)*
-
-- Developed an interactive dashboard for call-center performance analysis.
-- Analyzed KPIs, trends, and operational metrics.
-- Built using Looker Studio, PostgreSQL & Supabase.
-
-**Tech:** Looker Studio · PostgreSQL · Supabase · Data Analytics
+**Tech:** Power BI · DAX · Power Query · Excel · Python
 
 ---
 
-### ❤️ Heart Disease Analytics Dashboard *(If applicable)*
+### 🔐 Home SOC Lab
+**Splunk + VMware + Kali Linux**
+- Deployed Splunk Free on VMware Ubuntu VM for log ingestion
+- Created custom correlation alerts for brute-force detection
+- Simulated attacks using Kali Linux (Hydra, Nmap) to test alert effectiveness
+- Documented incident investigation following standard IR methodologies
 
-- Explored health-related datasets and performed data cleaning and analysis.
-- Created interactive visualizations and KPIs using Power BI.
-
-**Tech:** Python · Pandas · Power BI · Data Visualization
-
----
-
-### 🌦️ Weather Application *(If applicable)*
-
-- Built a weather application using Python that retrieves weather information based on location.
-
-**Tech:** Python · APIs · Streamlit
+**Tech:** Splunk · VMware · Kali Linux · Wireshark · Nmap
 
 ---
 
-### 🛒 E-Commerce Sales Dashboard *(If applicable)*
+### 🔐 IAM Security Framework Design
+**Zero-Trust Inspired Model**
+- Designed IAM model incorporating MFA, RBAC, and access reviews
+- Simulated user lifecycle: onboarding, role changes, deprovisioning
+- Applied Principle of Least Privilege and Zero-Trust principles
 
-- Analyzed sales and revenue trends and created interactive dashboards for decision-making.
-
-**Tech:** Power BI · DAX · Power Query · Excel
+**Tech:** IAM · RBAC · Zero-Trust · Access Control
 
 ---
 
-## 🔐 Cybersecurity Focus Areas
+## 🏅 Certifications
 
-```text
-SOC Analysis
-       ↓
-Log Analysis & Threat Detection
-       ↓
-Network Security
-       ↓
-Vulnerability Assessment
-       ↓
-Incident Response
-       ↓
-Threat Intelligence
-       ↓
-Cloud Security
-       ↓
-AI Security
+| Certification | Issuing Organization |
+|---------------|----------------------|
+| Certified LLM Security Professional (CLLMSP) | Red Team Leaders |
+| Certified Ethical Hacker (CCEH) | Cisco |
+| Python Essentials | Cisco |
+| SQL Injection Specialist | EC-Council |
+| Foundations of Log Analysis for Cyber Defense | EC-Council |
+| Data Analytics Certification | Deloitte |
+| Google Analytics Certification | Google |
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Indian Army Terrier Cyber Quest 2026** – National-level cybersecurity hackathon by Territorial Army & CyberPeace; competed in Bug Hunting track
+- 📚 **40+ TryHackMe Labs** – Nmap, Network Security, Wireshark, Metasploit, Vulnerability Assessment, Malware Analysis
+- 🎓 **Space Technology Internship** – 8-week program by AICTE & ISRO
+- 📊 **Global Fabric Days 2026** – Workshop on Medallion Architecture
+- 🧠 **Intellectual Property Utsav** – AICTE-MIC approved masterclass series
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering — Computer Engineering**
+Dr. D. Y. Patil College of Engineering and Innovation, Pune
+Savitribai Phule Pune University
+**2022 – 2026**
+
+🎯 **CGPA: 7.75/10**
+🔐 **Honors: Cyber Security**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:chavantejas940@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+&nbsp;
+
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+&nbsp;
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📞 Customer Support • 📊 Data Analytics • 🔐 Cybersecurity
+
+**Available for Immediate Joining | Open to WFO/Hybrid/Remote**
+
+⭐ **Thanks for visiting my profile!** ⭐
+
+</div>
