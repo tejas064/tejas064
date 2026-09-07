@@ -3,10 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Tejas+Chavan;Cybersecurity+%7C+SOC+Operations+%7C+Threat+Detection;Data+Engineering+%7C+Data+Quality+%7C+Analytics;Python+%7C+SQL+%7C+Linux+%7C+Power+BI;Dual+Expertise%3A+Security+%2B+Data+Analytics;Government+Project+Experience+%F0%9F%87%AE%F0%9F%87%B3;Available+for+Immediate+Joining+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=00D9FF&style=flat-square" alt="Profile Views" />
-
-&nbsp;
+<br/>
 
 <a href="mailto:chavantejas940@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-00D9FF?style=flat-square&logo=gmail&logoColor=white" />
@@ -114,7 +111,7 @@ Versatile technology professional with dual expertise in **Cybersecurity & SOC O
 ---
 
 ### 📋 Application & Documentation Support (Government Project)
-**Bandkam Kamgar Yojana – Government Initiative** | Pune | Jan 2025 – Present
+**Bandkam Kamgar Yojana – Government Initiative** | Pune | Jan 2025 – 2026 (Present)
 - Support online application workflows, data entry, and documentation following government procedures
 - Perform data validation and document verification to identify missing, inconsistent, or inaccurate information
 - Track applications and cases end-to-end in the case-tracking system
@@ -153,7 +150,7 @@ Versatile technology professional with dual expertise in **Cybersecurity & SOC O
 
 ## 🚀 Featured Projects
 
-### 🔐 Home SOC Lab (Primary)
+### 🔐 Home SOC Lab
 **Splunk + VMware + Kali Linux**
 - Deployed Splunk Free on VMware Ubuntu VM to ingest Windows Event Logs
 - Created custom correlation alerts to detect brute-force attempts, privilege escalation, and service interruptions
