@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Tejas+Chavan;Cybersecurity+%7C+SOC+%7C+Information+Security;Computer+Engineering+Graduate+%F0%9F%8E%93;Data+Analytics+%7C+Python+%7C+SQL+%7C+Power+BI;Government+Project+Experience+%F0%9F%87%AE%F0%9F%87%B3;Available+for+Immediate+Joining+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Tejas+Chavan;Cybersecurity+%7C+SOC+Operations+%7C+Threat+Detection;Data+Engineering+%7C+Data+Quality+%7C+Analytics;Python+%7C+SQL+%7C+Linux+%7C+Power+BI;Dual+Expertise%3A+Security+%2B+Data+Analytics;Government+Project+Experience+%F0%9F%87%AE%F0%9F%87%B3;Available+for+Immediate+Joining+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -28,19 +28,35 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🎯 Professional Summary
 
-I'm a **Computer Engineering graduate** from **Savitribai Phule Pune University** with a **CGPA of 7.75/10** and **Honors in Cyber Security**.
+**Computer Engineering Graduate** | **CGPA: 7.75/10** | **Honors in Cyber Security**  
+*Dr. D. Y. Patil College of Engineering, Savitribai Phule Pune University*
 
-I bring a powerful combination of **Cybersecurity expertise**, **Data Analytics skills**, and **Government Project experience** in application support and documentation.
+Versatile technology professional with dual expertise in **Cybersecurity & SOC Operations** and **Data Engineering & Analytics**. Combines threat detection, incident response, and security monitoring with data quality management, ETL pipelines, and business intelligence. Hands-on experience through **3+ internships**, **government projects**, **home labs**, and **40+ cybersecurity exercises**.
 
+**Core Competencies:**
 - 🔐 **Cybersecurity:** SOC Analysis, Threat Detection, Incident Response, Log Analysis, Network Security, Vulnerability Assessment, IAM, DFIR
 - 📊 **Data Analytics:** Data Validation, Quality Checks, Reconciliation, ETL, Power BI Dashboards, SQL, Python
-- 📋 **Government Project Experience:** Application & Documentation Support at Bandkam Kamgar Yojana, Pune (Government Initiative)
-- 💻 **Programming:** Python, SQL, Bash
-- 🛠️ **Tools:** Power BI, Excel, Git, Linux, Wireshark, Nmap, Kali Linux, Splunk, Metasploit
-- 📍 **Location:** Pune, Maharashtra, India
-- ⏰ **Availability:** Immediate Joiner | Open to WFO/Hybrid/Remote
+- 📋 **Government Experience:** Application Support & Documentation at Bandkam Kamgar Yojana (Government Initiative)
+- 💻 **Technical:** Python, SQL, Linux, Power BI, Excel, Git, Wireshark, Nmap, Kali Linux, Splunk, Metasploit
+
+**📍 Pune, Maharashtra, India** | **✅ Available for Immediate Joining** | **Open to WFO/Hybrid/Remote**
+
+---
+
+## 🔥 Key Achievements
+
+| # | Achievement |
+|---|-------------|
+| 1 | ✅ Designed IAM RBAC models reducing excessive permissions by **40%** in enterprise environment |
+| 2 | ✅ Analyzed **1,000+ access events** identifying **3 privilege escalation attempts** |
+| 3 | ✅ Deployed and configured **Splunk Free** with custom correlation alerts for threat detection |
+| 4 | ✅ Performed security assessments on vulnerable applications (DVWA, Metasploit) |
+| 5 | ✅ Built **ETL pipelines** processing multi-source data (CSV, Excel, PDF) with validation |
+| 6 | ✅ Created **operational dashboards** with Power BI tracking KPIs and business metrics |
+| 7 | ✅ Participated in **Indian Army Cyber Quest 2026** — National-level cybersecurity hackathon |
+| 8 | ✅ Supported **cybercrime investigation** — Incident classification, threat mapping, MITRE ATT&CK |
 
 ---
 
@@ -67,7 +83,7 @@ I bring a powerful combination of **Cybersecurity expertise**, **Data Analytics 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
-### 📊 Data Analytics (Secondary Focus)
+### 📊 Data Analytics & Engineering
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
